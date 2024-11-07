@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Intents App</string>
+    <!--intent eksplisit-->
+    <string name="move_activity">Pindah Aktivitas</string>
+    <string name="move_activity2">Tampilkan Nama</string>
+    <string name="move_activity3">Tampilkan Gambar</string>
+    <string name="this_is_move_activity">Ini Hasil Pindah Aktivitas</string>
+    <string name="this_is_move_activity2">Sumanto</string>
+    <string name="this_is_move_activity3">Gambar</string>
+    <string name="back_activity">Aktivitas Kembali</string>
+    <!--intent implisit-->
+    <string name="dial_number">Aktivitas Menelpon</string>
+</resources>
